@@ -108,3 +108,8 @@ If our code or models help your work, please cite our paper:
       primaryClass={cs.CV}
 }
 ```
+
+
+## Viedo detection
+
+Based on the YOLO V10 model, I simply implemented target detection in the video. The code is "video_detection.py".
