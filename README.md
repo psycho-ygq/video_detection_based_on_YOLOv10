@@ -1,7 +1,11 @@
 ## Viedo detection
 
 Based on the YOLO V10 model, I simply implemented target detection in the video. The code is "video_detection.py".
-![image](https://github.com/psycho-ygq/video_detection_based_on_yolov10/assets/78340742/f65f94f2-53f8-499e-a9e1-6274c5272f4e)
+
+
+https://github.com/psycho-ygq/video_detection_based_on_YOLOv10/assets/78340742/54f0b6ee-c792-42e1-905a-8fc5c732cc75
+
+
 
 
 ## Installation
